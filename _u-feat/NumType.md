@@ -104,7 +104,8 @@ and syntactically as nouns or ordinal numerals.
 * [cs] _půl / polovina_ "half"; _třetina_ "one third"; _čtvrt /
   čtvrtina_ "quarter"
 
-### <a name="Sets">`Sets`</a>: number of sets of things; collective numeral
+### <a name="Sets">`Sets`</a>: number of sets of things;
+<a name="collect"`Collect`</a>:collective numeral
 
 Morphologically distinct class of numerals used to count sets of
 things, or nouns that are pluralia tantum. Some authors call this type
